@@ -1,0 +1,30 @@
+.offer-card {
+  background-color: var(--background-minor);
+  border-radius: var(--border-radius-default);
+  box-shadow: var(--box-shadow-default);
+  padding: var(--unit-0600);
+}
+
+.offer-card > h2 {
+  font-size: var(--font-size-normal);
+  font-weight: var(--font-weight-bold);
+  margin-bottom: var(--unit-0000);
+  margin-top: var(--unit-0400);
+}
+
+.offer-card > img {
+  max-height: var(--unit-0900);
+}
+
+.offer-card > p {
+  font-size: var(--font-size-normal);
+  font-weight: var(--font-weight-normal);
+  margin-bottom: var(--unit-0000);
+  margin-top: var(--unit-0400);
+}
+
+.offer-card > p > strong {
+  color: var(--color-success);
+  font-size: var(--font-size-large);
+  font-weight: var(--font-weight-bold);
+}
