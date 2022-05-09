@@ -1,0 +1,278 @@
+{
+  "offers": [
+    {
+      "price": 706.08,
+      "course": {
+        "name": "Engenharia Mecânica"
+      },
+      "university": {
+        "name": "UNIP",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unip.png"
+      }
+    },
+    {
+
+      "price": 515.36,
+      "course": {
+        "name": "Jornalismo"
+      },
+      "university": {
+        "name": "UNIP",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unip.png"
+      }
+    },
+    {
+
+      "price": 520.56,
+      "course": {
+        "name": "Biomedicina"
+      },
+      "university": {
+        "name": "UNIP",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unip.png"
+      }
+    },
+    {
+
+      "price": 617.31,
+      "course": {
+        "name": "Arquitetura e Urbanismo"
+      },
+      "university": {
+        "name": "UNIP",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unip.png"
+      }
+    },
+    {
+
+      "price": 477.61,
+      "course": {
+        "name": "Propaganda e Marketing"
+      },
+      "university": {
+        "name": "UNIP",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unip.png"
+      }
+    },
+    {
+
+      "price": 1241.99,
+      "course": {
+        "name": "Jornalismo"
+      },
+      "university": {
+        "name": "Anhembi Morumbi",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/anhembi-morumbi.png"
+      }
+    },
+    {
+
+      "price": 1368.0,
+      "course": {
+        "name": "Marketing"
+      },
+      "university": {
+        "name": "Anhembi Morumbi",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/anhembi-morumbi.png"
+      }
+    },
+    {
+
+      "price": 1273.3,
+      "course": {
+        "name": "Biomedicina"
+      },
+      "university": {
+        "name": "Anhembi Morumbi",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/anhembi-morumbi.png"
+      }
+    },
+    {
+
+      "price": 539.1,
+      "course": {
+        "name": "Engenharia Mecânica"
+      },
+      "university": {
+        "name": "UNICSUL",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unicsul.png"
+      }
+    },
+    {
+
+      "price": 539.14,
+      "course": {
+        "name": "Ciência da Computação"
+      },
+      "university": {
+        "name": "UNICSUL",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unicsul.png"
+      }
+    },
+    {
+
+      "price": 1259.02,
+      "course": {
+        "name": "Gastronomia"
+      },
+      "university": {
+        "name": "UNICSUL",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unicsul.png"
+      }
+    },
+    {
+
+      "price": 142.9,
+      "course": {
+        "name": "Jogos Digitais"
+      },
+      "university": {
+        "name": "UNICSUL",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unicsul.png"
+      }
+    },
+    {
+
+      "price": 186.82,
+      "course": {
+        "name": "Ciência da Computação"
+      },
+      "university": {
+        "name": "UNICSUL",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unicsul.png"
+      }
+    },
+    {
+
+      "price": 163.03,
+      "course": {
+        "name": "Sistemas de Informação"
+      },
+      "university": {
+        "name": "UNICSUL",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unicsul.png"
+      }
+    },
+    {
+
+      "price": 159.23,
+      "course": {
+        "name": "Ciências Econômicas"
+      },
+      "university": {
+        "name": "UNICSUL",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unicsul.png"
+      }
+    },
+    {
+
+      "price": 748.75,
+      "course": {
+        "name": "Gestão de Recursos Humanos"
+      },
+      "university": {
+        "name": "Anhanguera",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/anhanguera.png"
+      }
+    },
+    {
+
+      "price": 493.02,
+      "course": {
+        "name": "Arquitetura e Urbanismo"
+      },
+      "university": {
+        "name": "Anhanguera",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/anhanguera.png"
+      }
+    },
+    {
+
+      "price": 692.79,
+      "course": {
+        "name": "Farmácia"
+      },
+      "university": {
+        "name": "Estácio",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/estacio.png"
+      }
+    },
+    {
+
+      "price": 207.07,
+      "course": {
+        "name": "Sistemas de Informação"
+      },
+      "university": {
+        "name": "Estácio",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/estacio.png"
+      }
+    },
+    {
+
+      "price": 207.07,
+      "course": {
+        "name": "Gestão de Recursos Humanos"
+      },
+      "university": {
+        "name": "Estácio",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/estacio.png"
+      }
+    },
+    {
+
+      "price": 278.48,
+      "course": {
+        "name": "Administração"
+      },
+      "university": {
+        "name": "Estácio",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/estacio.png"
+      }
+    },
+    {
+
+      "price": 222.23,
+      "course": {
+        "name": "História"
+      },
+      "university": {
+        "name": "Unopar",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unopar.png"
+      }
+    },
+    {
+
+      "price": 174.01,
+      "course": {
+        "name": "Gestão de Recursos Humanos"
+      },
+      "university": {
+        "name": "Unopar",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/unopar.png"
+      }
+    },
+    {
+
+      "price": 609.93,
+      "course": {
+        "name": "Administração"
+      },
+      "university": {
+        "name": "ETEP",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/etep.png"
+      }
+    },
+    {
+
+      "price": 606.18,
+      "course": {
+        "name": "Educação Física"
+      },
+      "university": {
+        "name": "ETEP",
+        "logoUrl": "https://www.tryimg.com/u/2019/04/16/etep.png"
+      }
+    }
+  ]
+}

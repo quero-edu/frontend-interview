@@ -10,13 +10,19 @@
 - `npm install`
 - `npm start`
 
+## Client
+
+the client runs on port [`1234`](http://localhost:1234/)
+
 ## API
 
-## Endpoint
+the API runs on port [`3000`](http://localhost:3000/)
 
-`https://vitebo-frontend-interview.s3.amazonaws.com/offers.json`
+### Endpoint
 
-### Response
+`http://localhost:3000/offers`
+
+#### Response
 
 ```json
 [
